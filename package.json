@@ -1,0 +1,28 @@
+{
+  "name": "asynchronismjavascript",
+  "version": "1.0.0",
+  "description": "Ejamples of asynchronism in javascript",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopherdavideh/AsynchronismJavaScript.git"
+  },
+  "keywords": [
+    "callback",
+    "promise",
+    "async",
+    "await"
+  ],
+  "author": "Christopher Erazo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christopherdavideh/AsynchronismJavaScript/issues"
+  },
+  "homepage": "https://github.com/christopherdavideh/AsynchronismJavaScript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
